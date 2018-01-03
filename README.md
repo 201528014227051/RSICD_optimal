@@ -18,6 +18,7 @@ If you find this dataset useful, please cite this paper：
  		 title={Exploring Models and Data for Remote Sensing Image Caption Generation},
  		 author={Lu, Xiaoqiang and Wang, Binqiang and Zheng, Xiangtao and Li, Xuelong},
  		 journal={IEEE Transactions on Geoscience and Remote Sensing}
+		 doi={10.1109/TGRS.2017.2776321}
 		}
 ## Other Datasets Source
 
