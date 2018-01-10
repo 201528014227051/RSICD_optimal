@@ -20,12 +20,14 @@ If you find this dataset useful, please cite this paper：
  		 journal={IEEE Transactions on Geoscience and Remote Sensing}
 		 doi={10.1109/TGRS.2017.2776321}
 		}
-## Other Datasets Source
+## Other Source of RSICD Datasets 
 
 [Baidupan](http://pan.baidu.com/s/1bp71tE3)
 
 [GoogleDrive](https://drive.google.com/open?id=0B1jt7lJDEXy3aE90cG9YSl9ScUk)
 
 ## Other remote sensing image captioning dataset
-[UCM_captions]()
-[Sydney_captions]()
+
+[UCM_captions](https://pan.baidu.com/s/1mjPToHq)
+
+[Sydney_captions](https://pan.baidu.com/s/1hujEmcG)
