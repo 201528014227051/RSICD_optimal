@@ -2,7 +2,7 @@
 
 ## Intruduction
 
-RSICD is used for remote sensing image captioning task. more than ten thousands remote sensing images are collected from Google Earth, Baidu Map, MapABC, Tianditu. The images are fixed to 224X224 pixels with various resolutions. The total number of remote sensing images are 10921, with five sentences descriptions per image. To the best of our knowledge, this dataset is the largest dataset for remote sensing captioning. The sample images in the dataset are with high intra-class diversity and low inter-class dissimilarity. Thus, this dataset provides the researchers a data resource to advance the task of remote sensing captioning.
+RSICD is used for remote sensing image captioning task. more than ten thousands remote sensing images are collected from Google Earth, Baidu Map, MapABC, Tianditu. The images are fixed to 224X224 pixels with various resolutions. The total number of remote sensing images are 10921, with five sentences descriptions per image. To the best of our knowledge, this dataset is the largest dataset for remote sensing captioning. The sample images in the dataset are with high intra-class diversity and low inter-class dissimilarity. Thus, this dataset provides the researchers a data resource to advance the task of remote sensing captioning.<font color=red>注意：git下载是有大小限制的，需要使用大文件存储（LFS）,还需要修改设置，具体参见[这里](http://blog.csdn.net/m0_37052320/article/details/77799413)。推荐大家使用下面的谷歌网盘和百度网盘下载。</font>
 
 ## Examples
 
