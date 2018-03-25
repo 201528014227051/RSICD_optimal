@@ -23,8 +23,8 @@ If you find this dataset useful, please cite this paper：
  		 author={Lu, Xiaoqiang and Wang, Binqiang and Zheng, Xiangtao and Li, Xuelong},
  		 journal={IEEE Transactions on Geoscience and Remote Sensing},
 		 volume = {56},
-                 number = {4},
-                 pages = {2183-2195},
+		 number = {4},
+		 pages = {2183-2195},
 		 doi={10.1109/TGRS.2017.2776321}
 		}
 ## Other Source of RSICD Datasets 
