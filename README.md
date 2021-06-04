@@ -1,5 +1,9 @@
 # RSICD
 
+## ❗ News
+
+- The new download source of Sydney-captions and UCM-catpions-MEGA.
+
 ## Intruduction
 
 RSICD is used for remote sensing image captioning task. more than ten thousands remote sensing images are collected from Google Earth, Baidu Map, MapABC, Tianditu. The images are fixed to 224X224 pixels with various resolutions. The total number of remote sensing images are 10921, with five sentences descriptions per image. To the best of our knowledge, this dataset is the largest dataset for remote sensing captioning. The sample images in the dataset are with high intra-class diversity and low inter-class dissimilarity. Thus, this dataset provides the researchers a data resource to advance the task of remote sensing captioning.
@@ -35,6 +39,10 @@ If you find this dataset useful, please cite this paper：
 
 ## Other remote sensing image captioning dataset
 
-[UCM_captions](https://pan.baidu.com/s/1mjPToHq)
+[UCM_captions-BaiduPan](https://pan.baidu.com/s/1mjPToHq)
 
-[Sydney_captions](https://pan.baidu.com/s/1hujEmcG)
+[Sydney_captions-BaiduPan](https://pan.baidu.com/s/1hujEmcG)
+
+[UCM_captions-MEGA](https://mega.nz/folder/wCpSzSoS#RXzIlrv--TDt3ENZdKN8JA)
+
+[Sydney_captions-MEGA](https://mega.nz/folder/pG4yTYYA#4c4buNFLibryZnlujsrwEQ)
