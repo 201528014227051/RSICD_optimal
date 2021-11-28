@@ -2,6 +2,8 @@
 
 ## ❗ News
 
+-  The new download source of RSICD-MEGA
+
 - The new download source of Sydney-captions and UCM-catpions-MEGA.
 
 ## Intruduction
@@ -44,5 +46,7 @@ If you find this dataset useful, please cite this paper：
 [Sydney_captions-BaiduPan](https://pan.baidu.com/s/1hujEmcG)
 
 [UCM_captions-MEGA](https://mega.nz/folder/wCpSzSoS#RXzIlrv--TDt3ENZdKN8JA)
+
+[RSICD-MEGA](https://mega.nz/folder/pG4yTYYA#4c4buNFLibryZnlujsrwEQ)
 
 [Sydney_captions-MEGA](https://mega.nz/folder/pG4yTYYA#4c4buNFLibryZnlujsrwEQ)
